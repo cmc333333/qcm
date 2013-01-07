@@ -1,0 +1,3 @@
+[submodule "import/charter/scrape"]
+	path = import/charter/scrape
+	url = git://github.com/cmc333333/Charter-Scrape.git
